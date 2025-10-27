@@ -1,8 +1,23 @@
-# ⚽ European Football League Analysis & Prediction
+# ⚽ European Football League Predictor
 
-This project explores and analyzes data from five major European football leagues to uncover insights, visualize distributions, and build a basic prediction model for future team positions.
+AI-powered football prediction app that forecasts next season's points based on historical performance data.
 
----
+## Features
+- Predict next season points for any major European team
+- Uses machine learning model trained on 20+ years of data
+- Interactive charts and performance analysis
+- No manual input required - just select league and team
+
+## How to Use
+1. Select a league from the dropdown
+2. Choose your team
+3. Click "PREDICT NEXT SEASON POINTS"
+4. View the AI-powered prediction with detailed analysis
+
+## Model
+- **Algorithm:** Linear Regression
+- **Features:** Historical wins, draws, losses, goals for/against
+- **Data:** 20+ years of European football data
 
 ## 📊 Project Overview
 
