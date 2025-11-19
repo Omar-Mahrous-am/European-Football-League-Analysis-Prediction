@@ -14,6 +14,7 @@ AI-powered football prediction app that forecasts next season's points based on 
 3. Click "PREDICT NEXT SEASON POINTS"
 4. View the AI-powered prediction with detailed analysis
 
+Please feel free to try my model WEB APP: https://huggingface.co/spaces/omarmohamedmahroos/Predict_Team_points
 ## Model
 - **Algorithm:** Linear Regression
 - **Features:** Historical wins, draws, losses, goals for/against
